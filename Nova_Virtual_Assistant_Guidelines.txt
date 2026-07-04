@@ -1,0 +1,84 @@
+Guidelines for Using Nova Virtual Assistant
+
+1.  Use the Wake Word
+
+-   Always begin by saying “Nova” clearly to activate the assistant.
+-   Wait until Nova responds before giving your command.
+
+2.  Speak Clearly
+
+-   Speak slowly and clearly in English.
+-   Avoid speaking too fast or mumbling.
+
+3.  Reduce Background Noise
+
+-   Use Nova in a quiet environment for better voice recognition.
+-   Minimize music, TV, or conversations nearby.
+
+4.  Give One Command at a Time
+
+-   Wait for Nova to complete the current task before issuing another
+    command.
+
+5.  Use Supported Commands
+
+-   Open Google
+-   Open YouTube
+-   Open Facebook
+-   Open Instagram
+-   Open LinkedIn
+-   Play songs from the music library
+-   Read the latest news
+-   Tell the current time
+-   Tell today’s date
+-   Tell the current day
+-   Search Wikipedia
+-   Send WhatsApp messages (to saved contacts)
+
+6.  Use Exact Contact Names
+
+-   While sending WhatsApp messages, speak the contact name exactly as
+    it is stored in the program.
+
+7.  Internet Connection
+
+-   Ensure an active internet connection for news updates, Wikipedia
+    searches, opening websites, sending WhatsApp messages, and voice
+    recognition.
+
+8.  Microphone Access
+
+-   Make sure the microphone is connected and permission is granted.
+
+9.  Wait for Voice Prompts
+
+-   During multi-step operations, wait for Nova’s prompt before
+    speaking.
+
+10. Avoid Interrupting Nova
+
+-   Do not speak while Nova is responding.
+
+11. Keep Required Libraries Installed
+
+-   Install all required Python libraries before running Nova.
+
+12. Maintain Contact Information
+
+-   Update the contact numbers in the source code before using WhatsApp
+    messaging.
+
+13. Stable Internet Improves Performance
+
+-   A stable internet connection ensures faster speech recognition and
+    smoother execution.
+
+14. Handle Errors Gracefully
+
+-   If Nova cannot understand your speech or a service is unavailable,
+    repeat the command.
+
+15. Close Unnecessary Applications
+
+-   Closing resource-intensive applications can improve Nova’s
+    responsiveness and performance.
